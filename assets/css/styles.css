@@ -56,5 +56,19 @@ a{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    
+    background-size: cover;
+    background-position: center;
+    background-image: url("../images/dallas.jpg");
+}
+
+.float-left{
+    float: left;
+    margin-right: 25px;
+}
+
+.content{
+    width: 75%;
+    display: flex;
+    margin-left: 20px;
+
 }
