@@ -100,3 +100,14 @@ a{
     background-color: rgb(78, 110, 110);
     color: white;
 }
+
+/*Image sizing*/
+
+.Contact img{
+    max-height: 200px;
+}
+
+/*href*/
+.a{
+    color: red;
+}
